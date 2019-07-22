@@ -1,0 +1,869 @@
+Recipe: The Twins' Artifact 
+Recipe: Charged Ambrite Orichalcum Amulet 
+Malign Glyphic Longbow 
+Malign Steam Axe 
+Recipe: Yassith's Cloth Breather 
+Malign Glyphic Pistol 
+Strong Reinforced Scale Boots of the Pack 
+Mighty Green Wood Torch 
+Recipe: Svaard's Artifact 
+Rampager's Winged Pants 
+Half Eaten Scepter 
+Recipe: Wanderer's Exalted Masque 
+Strong Harpoon 
+Ravaging Soft Wood Harpoon Gun 
+Mighty Green Wood Warhorn 
+Rampager's Iron Pistol of Life 
+Recipe: Harrier's Warbeast Shoes 
+Malign Glyphic Handblade 
+Ravaging Steel Shield 
+Valkyrie Hard Wood Torch 
+Recipe: Minstrel's Draconic Legs 
+Honed Soft Wood Focus 
+Warbeast Hardened Boot Upper 
+Carrion Steam Brand 
+Strong Soft Wood Longbow 
+Recipe: Minstrel's Emblazoned Boots 
+Ravaging Glyphic Staff 
+Malign Bronze Pistol 
+Malign Glyphic Longblade 
+Berserker's Steam Speargun of Stamina 
+Hearty Splint Pauldrons 
+Ravaging Glyphic Axe of Debility 
+Berserker's Hard Wood Scepter 
+Honed Iron Pistol 
+Rotbeard's Treasure 
+Ravaging Glyphic Handblade 
+Malign Steam Staff 
+Dire Aureate Staff of Water 
+Rampager's Hard Wood Longbow 
+Recipe: Zehtuka's Harrier's Insignia 
+Honed Iron Sword of Blood 
+Ravaging Steam Scepter of Debility 
+Knight's Barbaric Coat 
+Sentinel's Pearl Trident 
+Honed Bandit Bugle 
+Ravaging Seasoned Wood Staff 
+Malign Glyphic Handblade 
+Recipe: Zealot's Emblazoned Gloves 
+Carrion Darksteel Axe 
+Strong Banded Greaves of the Dolyak 
+Berserker's Rogue Pants of Scavenging 
+Recipe: Minstrel's Emblazoned Gloves 
+Penetrating Krytan Greatsword of Grawl Slaying 
+Berserker's Tempered Scale Helm 
+Vigorous Steel Dagger 
+Berserker's Conjurer Pants of the Dolyak 
+Ruby Mithril Earring 
+Vigorous Seasoned Wood Torch 
+Honed Banded Coat of the Flame Legion 
+Ravaging Glyphic Axe 
+Recipe: Minstrel's Emblazoned Pants 
+Giver's Acolyte Pants 
+Honed Iron Axe of Accuracy 
+Mending Norn Dagger of Ogre Slaying 
+Honed Iron Sword 
+Giver's Masquerade Leggings 
+Strong Privateer Boots of the Centaur 
+Strong Iron Dagger 
+Carrion Banded Pauldrons of Strength 
+Malign Glyphic Edge 
+Honed Black Earth Trident of Grawl Slaying 
+Ravaging Verdant Focus of Earth 
+Ravaging Verdant Focus of Battle 
+Strong Conjurer Mantle of Infiltration 
+Ravaging Flame Warhorn of Ogre Slaying 
+Fertilizer Pouch 
+Hunter's Steel Axe 
+Berserker's Banded Greaves of the Lich 
+Berserker's Iron Axe of Peril 
+Ravaging Steel Sword 
+Healing Embroidered Sandals 
+Berserker's Banded Gauntlets of the Lich 
+Honed Soft Wood Warhorn of Life 
+Honed Iron Dagger 
+Cleric's Winged Tunic 
+Recipe: Minstrel's Draconic Pauldrons 
+Strong Cabalist Hood of Mercy 
+Vigorous Leather Coat 
+Half Eaten Mace 
+Penetrating Aureate Rinblade of Earth 
+Bringer's Ogre Javelin 
+Glacial Sliver 
+Ravaging Steel Spear 
+Vigorous Scale Gauntlets 
+Ravaging Flame Dagger of Ogre Slaying 
+Rampager's Banded Pauldrons of the Lich 
+Recipe: Minstrel's Emblazoned Helm 
+Ravaging Steam Axe of Accuracy 
+Valkyrie Darksteel Sword 
+Carrion Verdant Blade of Corruption 
+Berserker's Barbaric Legplates 
+Berserker's Tempered Scale Gauntlets 
+Recipe: Minstrel's Exalted Gloves 
+Berserker's Soft Wood Warhorn of the Hydromancer 
+Steamblade 
+Hearty Iron Shield of the Geomancer 
+Berserker's Darksteel Dagger 
+Berserker's Hard Wood Short Bow 
+Writ of Basic Accuracy 
+Charr Scepter 
+Penetrating Aureate Highlander Greatsword of Battle 
+Carrion Verdant Bow of Water 
+Malign Embroidered Coat 
+Berserker's Iron Pistol of the Hydromancer 
+Recipe: Verata's Short Bow 
+Penetrating Aureate Pistol of Ogre Slaying 
+Cavalier's Draconic Gauntlets 
+Recipe: Maklain's Brazier 
+Ravaging Steam Axe 
+Hunter's Steel Dagger 
+Vital Seeker Boots 
+Mighty Embroidered Coat 
+Carrion Verdant Scepter of Water 
+Healing Green Wood Staff 
+Carrion Banded Helm of Mercy 
+Ravaging Reinforced Scale Gauntlets of the Centaur 
+Mending Norn Dagger of Earth 
+Knight's Noble Boots 
+Carrion Conjurer Shoes of the Citadel 
+Rampager's Hard Wood Staff 
+Apothecary's Mithril Mace 
+Ravaging Glyphic Pistol of Accuracy 
+Dire Pearl Conch 
+Ravaging Reinforced Scale Helm of Lyssa 
+Carrion Flame Focus of Water 
+Hunter's Seasoned Wood Short Bow 
+Ravaging Outlaw Coat 
+Mighty Green Wood Focus 
+Mending Norn Scepter of Battle 
+Mending Norn Staff of Earth 
+Ravaging Verdant Mace of Ogre Slaying 
+Recipe: Maklain's Trident 
+Rampager's Barbaric Coat 
+Hunter's Masquerade Mask 
+Charr Staff 
+Strong Conjurer Shoes of Divinity 
+Rampager's Iron Sword of Force 
+Penetrating Aureate Speargun of Battle 
+Cavalier's Pearl Conch 
+Carrion Flame Blade of Water 
+Recipe: Pahua's Doublet 
+Honed Iron Pistol 
+Opal Platinum Earring 
+Honed Steel Sword 
+Penetrating Aureate Targe of Earth 
+Carrion Verdant Greatsword of Energy 
+Berserker's Black Earth Trident of Debility 
+Feast of Avocado Salsa 
+Rampager's Iron Axe of Energy 
+Hunter's Leather Coat 
+Honed Soft Wood Warhorn of Water 
+Visage of Balthazar 
+Strong Marauder Helm of Grenth 
+Rejuvenating Outlaw Coat 
+Strong Reinforced Scale Helm of Strength 
+Ravaging Flame Staff of Battle 
+Rampager's Black Earth Trident of Ogre Slaying 
+Strong Student Coat 
+Malign Steam Bow of Force 
+Berserker's Banded Helm of Balthazar 
+Precise Embroidered Sandals 
+Ravaging Conjurer Pants of the Citadel 
+Recipe: Corrupted Avenger 
+Tray of Omnomberry Tarts 
+Honed Steel Axe 
+Oiled Gossamer Shoe Sole 
+Rejuvenating Steel Dagger 
+Carrion Scallywag Pauldrons of the Grove 
+Iron Legion's Gauntlets 
+Rejuvenating Scale Legs 
+Strong Reinforced Scale Boots of the Eagle 
+Hunter's Iron Greatsword 
+Recipe: Zealot's Emblazoned Helm 
+Strong Iron Dagger 
+Apothecary's Mithril Pistol 
+Vital Embroidered Pants 
+Carrion Flame Warhorn of Water 
+Berserker's Iron Dagger of Perception 
+Carrion Pearl Blunderbuss 
+Berserker's Tempered Scale Chestplate 
+Berserker's Hard Wood Longbow 
+Carrion Banded Greaves of the Traveler 
+Mighty Bronze Sword 
+Berserker's Barbaric Legplates 
+Carrion Verdant Trident of Water 
+Berserker's Steam Speargun of Venom 
+Strong Privateer Shoulders of the Flock 
+Hearty Outlaw Pants 
+Penetrating Aureate Axe of Battle 
+Honed Soft Wood Focus of Force 
+Ravaging Splint Legs 
+Assassin's Winged Boots 
+Berserker's Iron Pistol of Serpent Slaying 
+Penetrating Aureate Pistol of Earth 
+Cleric's Iron Pistol of the Hydromancer 
+Carrion Flame Bow of Water 
+Recipe: Svaard's Blade 
+Berserker's Iron Spear of Chilling 
+Ravaging Steam Pistol of Accuracy 
+Cleric's Gladiator Legplates 
+Strong Iron Sword 
+Recipe: Sprocket Orichalcum Earring 
+Strong Steel Sword 
+Recipe: Harrier's Warbeast Tassets 
+Strong Banded Legs of Divinity 
+Strong Privateer Coat of Lyssa 
+Giver's Gladiator Boots 
+Berserker's Soft Wood Focus of Battle 
+Carrion Verdant Greatsword of Water 
+Hearty Outlaw Boots 
+Berserker's Soft Wood Staff of Water 
+Recipe: Ruka's Visage 
+Ravaging Reinforced Scale Legs of Divinity 
+Recipe: Maklain's Reaver 
+Berserker's Iron Spear of Air 
+Cleric's Iron Spear of the Geomancer 
+Malign Glyphic Brand of Force 
+Berserker's Steam Speargun of Battle 
+Hunter's Iron Greatsword 
+Berserker's Privateer Boots of the Lich 
+Carrion Flame Carrier of Water 
+Carrion Verdant Axe of Water 
+Hearty Outlaw Pants 
+Strong Cabalist Shoulders of Divinity 
+Healing Chain Coat 
+Honed Banded Legs of the Traveler 
+Tray of Saffron Bread 
+Honed Student Coat 
+Berserker's Ring 
+Assassin's Rascal Coat 
+Malign Bronze Pistol 
+Berserker's Amulet 
+Mighty Chain Helm 
+Strong Privateer Boots of Infiltration 
+Ravaging Flame Scepter of Earth 
+Carrion Rascal Pants 
+Assassin's Rascal Pants 
+Strong Ring 
+Rampager's Iron Axe of Energy 
+Spinel Silver Amulet 
+Sage Dye 
+Cleric's Iron Sword of Smoldering 
+Resilient Chain Boots 
+Strong Reinforced Scale Coat of Rage 
+Hearty Splint Legs 
+Carrion Conjurer Pants of Rata Sum 
+Hearty Leather Coat 
+Rampager's Soft Wood Warhorn of Battle 
+Assassin's Darksteel Dagger 
+Honed Marauder Helm of Scavenging 
+Snowflake Copper Ring 
+Warbeast Hardened Shoulderguard Padding 
+Warbeast Hardened Boot Sole 
+Ravaging Glyphic Handblade of Accuracy 
+Carnelian Gold Earring 
+Hunter's Masquerade Mantle 
+Hunter's Steel Sword 
+Mighty Embroidered Mask 
+Carrion Flame Greatsword of Water 
+Recipe: Maklain's Wristguards 
+Honed Outlaw Coat 
+Ravaging Glyphic Axe of Smoldering 
+Devout Shoes 
+Berserker's Rascal Boots 
+Passiflora Mithril Amulet 
+Apothecary's Barbaric Coat 
+Carrion Conjurer Chest of the Flame Legion 
+Recipe: Maklain's Warfists 
+Ravaging Flame Staff of Ogre Slaying 
+Hearty Outlaw Coat 
+Ravaging Outlaw Pants 
+Strong Privateer Hat of Infiltration 
+Choya Pinata Tonic 
+Mighty Bronze Pistol 
+Rampager's Rascal Pants 
+Hearty Leather Coat 
+Recipe: Zealot's Exalted Boots 
+Carrion Tribal Bow of Vision 
+Berserker's Privateer Boots of the Flame Legion 
+Rabid Pearl Brazier 
+Shaman's Norn Trident of Water 
+Berserker's Sneakthief Shoulderguards of Balthazar 
+Soldier's Draconic Gauntlets 
+Strong Reinforced Scale Pauldrons of Scavenging 
+Giver's Chain Legs 
+Sapphire Platinum Earring 
+Ravaging Cabalist Gloves of the Flock 
+Penetrating Aureate Highlander Greatsword of Earth 
+Hunter's Masquerade Boots 
+Thesis on Calculated Malice 
+Ravaging Reinforced Scale Pauldrons of Balthazar 
+Berserker's Amulet 
+Recipe: Svaard's Wristguards 
+Ravaging Flame Carrier of Ogre Slaying 
+Valkyrie Masquerade Boots 
+Valkyrie Pearl Brazier 
+Rampager's Seer Gloves of the Flame Legion 
+Assassin's Rascal Boots 
+Malign Bronze Sword 
+Berserker's Sneakthief Sandals of Dwayna 
+Recipe: Laranthir's Artifact 
+Strong Splint Pauldrons 
+Ravaging Privateer Shoulders of the Centaur 
+Rampager's Steam Speargun of Earth 
+Malign Green Wood Staff 
+Strong Iron Axe of Restoration 
+Dire Orrian Sabre of Water 
+Carrion Flame Guard of Water 
+Apothecary's Prowler Boots 
+Dire Orrian Speargun of Vision 
+Ravaging Reinforced Scale Coat of Rage 
+Valkyrie Pearl Trident 
+Berserker's Iron Sword of Air 
+Opal Platinum Ring 
+Hunter's Outlaw Pants 
+Rampager's Pearl Blunderbuss 
+Malign Embroidered Wristguards 
+Berserker's Seer Boots of the Citadel 
+Strong Iron Dagger 
+Recipe: Svaard's Striders 
+Writ of Studied Strength 
+Malign Glyphic Mace of Force 
+Precise Bronze Sword 
+Penetrating Amulet 
+Carrion Privateer Boots of Dwayna 
+Sour Dye 
+Rabid Verdant Dagger 
+Ravaging Splint Coat 
+Recipe: Ruka's Reaver 
+Berserker's Rascal Gloves 
+Spinel Silver Earring 
+Vigorous Splint Legs 
+Hunter's Iron Sword 
+Recipe: Yassith's Guise 
+Precise Seeker Gloves 
+Recipe: The Twins' Guise 
+Recipe: Svaard's Shoulderguard 
+Carnelian Silver Amulet 
+Candy Corn Silver Pendant 
+Charr Greatsword 
+Recipes of the Dwarven Cloth Trader 
+Rejuvenating Splint Legs 
+Spinel Silver Ring 
+Knight's Gladiator Legplates 
+Apothecary's Barbaric Boots 
+Rampager's Masquerade Boots 
+Ruby Platinum Amulet 
+Berserker's Winged Tunic 
+Ravaging Outlaw Pants 
+Honed Banded Gauntlets of the Dolyak 
+Gossamer Epaulet Panel 
+Embellished Brilliant Opal Jewel 
+Giver's Outlaw Coat 
+Honed Outlaw Pants 
+Recipe: Yassith's Warfists 
+Wall of Thorns 
+Strong Ring 
+Rampager's Sneakthief Mask of the Citadel 
+Berserker's Seer Gloves of the Centaur 
+Vigorous Splint Coat 
+Assassin's Noble Coat 
+Strong Privateer Pants of Scavenging 
+Carnelian Gold Band 
+Mighty Seeker Gloves 
+Rampager's Soft Wood Torch of Force 
+Knight's Emblazoned Pants 
+Strong Outlaw Coat 
+Cavalier's Draconic Legs 
+Strong Country Coat 
+Soldier's Draconic Boots 
+Recipe: Svaard's Visage 
+Berserker's Scallywag Legs of the Flame Legion 
+Recipe: Vigilant Exalted Gloves 
+Strong Cabalist Legs of Balthazar 
+Ravaging Conjurer Chest of Rata Sum 
+Ornate Huntsman's Tools 
+Bringer's Pearl Stinger 
+Rampager's Winged Tunic 
+Recipe: Maklain's Masque 
+Berserker's Rogue Coat of the Traveler 
+Berserker's Black Earth Trident of Ice 
+Wheat Dye 
+Cavalier's Pearl Rod 
+Berserker's Ring 
+Soldier's Pearl Impaler 
+Hearty Scale Legs 
+Knight's Winged Tunic 
+Sturdy Tailor's Tools 
+Hunter's Masquerade Gloves 
+Ruby Platinum Amulet 
+Penetrating Aureate Virge of Battle 
+Rabid Beaded Lancea 
+Ravaging Flame Blade of Battle 
+Shaman's Norn Pistol of Water 
+Mini Dredge Mining Suit 
+Recipe: Maklain's Pauldrons 
+Sapphire Mithril Earring 
+Mighty Bronze Pistol 
+Strong Scale Legs 
+Berserker's Iron Greatsword of Bloodlust 
+Carrion Tribal Spear of Vision 
+Berserker's Winged Tunic 
+Vital Chain Legs 
+Valkyrie Winged Tunic 
+Recipe: Occam's Metal Breather 
+Berserker's Seer Pants of the Afflicted 
+Rejuvenating Masquerade Raiments 
+Shaman's Norn Pistol of Energy 
+Malign Glyphic Staff of Force 
+Mighty Seeker Pants 
+Cleric's Iron Mace of Earth 
+Recipe: Yassith's Striders 
+Cleric's Pearl Trident 
+Valkyrie Krait Pilum 
+Unidentified Orange Dye 
+Cavalier's Pearl Quarterstaff 
+Assassin's Gladiator Gauntlets 
+Dire Pearl Trident 
+Shaman's Norn Staff of Water 
+Cleric's Soft Wood Focus of Peril 
+Giver's Gladiator Gauntlets 
+Carrion Verdant Pistol of Water 
+Hearty Masquerade Raiments 
+Berserker's Winged Boots 
+Ravaging Acolyte Coat 
+Honed Rogue Pauldrons of Hoelbrak 
+Shaman's Conjurer Mask of the Flock 
+Berserker's Iron Mace of Fire 
+Rampager's Krait Pilum 
+Linen Pants Panel 
+Carrion Krait Harpoon Gun 
+Recipe: Maklain's Footwear 
+Magi's Draconic Gauntlets 
+Berserker's Sneakthief Mask of Dwayna 
+Cleric's Iron Sword of Agony 
+Recipe: Svaard's Warhammer 
+Carrion Pearl Brazier 
+Recipe: Harrier's Warbeast Leggings 
+Assassin's Gladiator Gauntlets 
+Berserker's Gladiator Gauntlets 
+Cleric's Winged Tunic 
+Rampager's Iron Greatsword of Blood 
+Vigorous Outlaw Pants 
+Honed Iron Pistol of Restoration 
+Ogre Dirk 
+Honed Privateer Boots of Divinity 
+Carrion Verdant Greatsword of Corruption 
+Berserker's Iron Sword of Perception 
+Berserker's Iron Pistol of Hobbling 
+Recipe: The Twins' Leggings 
+Lapis Gold Earring 
+Recipe: Ruka's Blade 
+Cleric's Iron Greatsword of Force 
+Rampager's Soft Wood Scepter of Hobbling 
+Cleric's Black Earth Trident of Agony 
+Ravaging Privateer Coat of Grenth 
+Practical Huntsman's Tools 
+Mighty Bronze Greatsword 
+Assassin's Gladiator Chestplate 
+Vigorous Masquerade Raiments 
+Assassin's Darksteel Greatsword 
+Opal Platinum Earring 
+Soldier's Pearl Rod 
+Peridot Gold Amulet 
+Recipe: The Twins' Bastion 
+Berserker's Amulet 
+Lapis Gold Amulet 
+Berserker's Seer Coat of the Traveler 
+Recipe: Maklain's Greaves 
+Recipe: Maklain's Metal Breather 
+Ogre Effigy 
+Recipe: Yassith's Footwear 
+Opal Platinum Amulet 
+Bringer's Ogre Cleaver 
+Strong Masquerade Gloves 
+Knight's Gladiator Gauntlets 
+Oiled Orichalcum Shield Boss 
+Mighty Bronze Axe 
+Dire Aureate Musket of Air 
+Penetrating Aureate Rinblade of Battle 
+Assassin's Gladiator Boots 
+Oiled Gossamer Coat Lining 
+Carrion Scallywag Gauntlets of the Citadel 
+Berserker's Rogue Pants of the Flock 
+Strong Iron Dagger of Corruption 
+Cleric's Gladiator Chestplate 
+Warbeast Hardened Glove Panel 
+Healing Shiverpeak Staff of Force 
+Ravaging Bandit Ward 
+Ravaging Cabalist Legs of Scavenging 
+12 Slot Invisible Pack 
+Lapis Gold Ring 
+Strong Cabalist Coat of the Flame Legion 
+Recipe: Yassith's Pauldrons 
+Amethyst Gold Amulet 
+Rampager's Soft Wood Short Bow of Leeching 
+Berserker's Noble Mask 
+Writ of Masterful Accuracy 
+Berserker's Seer Mantle of the Eagle 
+Carrion Verdant Blade of Water 
+Berserker's Sneakthief Gloves of Vampirism 
+Opal Platinum Ring 
+Topaz Gold Ring 
+Soldier's Draconic Pauldrons 
+Recipe: The Twins' Striders 
+Carrion Verdant Dagger of Corruption 
+Berserker's Sneakthief Coat of the Centaur 
+Soldier's Exalted Mantle 
+Lapis Silver Amulet 
+Honed Iron Greatsword of Blood 
+Hunter's Scale Coat 
+Rabid Draconic Coat 
+Dire Orrian Spear of Rage 
+Chrysocola Platinum Amulet 
+Magi's Draconic Pauldrons 
+Dire Orrian Pistol of Vision 
+Recipe: Zealot's Exalted Gloves 
+Assassin's Godskull Brazier 
+Warbeast Hardened Glove Lining 
+Sogolon's Purifier 
+Lapis Silver Ring 
+Valkyrie Masquerade Mask 
+Berserker's Sneakthief Leggings of the Centaur 
+Settler's Draconic Gauntlets 
+Recipe: Zealot's Exalted Mantle 
+Carrion Legionnaire Axe of Rage 
+Recipe: Nadijeh's Revolver 
+Lilac Dye 
+Rampager's Noble Gloves 
+Recipe: The Twins' Shoulderguard 
+Soldier's Pearl Shell 
+Knight's Rascal Coat 
+Assassin's Godskull Flintlock 
+Hunter's Masquerade Raiments 
+Carrion Tribal Torch of Vision 
+Rabid Pearl Rod 
+Berserker's Masquerade Leggings 
+Carrion Tribal Shield of Vision 
+Rampager's Soft Wood Focus of Perception 
+Knight's Emblazoned Shoulders 
+Sturdy Scribe's Tools 
+Rampager's Soft Wood Longbow of Peril 
+Sunstone Gold Earring 
+Shadow Shoes 
+Berserker's Iron Axe of Serpent Slaying 
+Recipe: The Twins' Grips 
+Magi's Pearl Conch 
+Assassin's Pearl Siren 
+Dire Orrian Torch of Rage 
+Recipe: Harrier's Warbeast Vambraces 
+Sturdy Leatherworker's Tools 
+Bringer's Ogre Blaze 
+Iron Scale Legging Panel 
+Seasoned Rifle Stock 
+Honed Masquerade Boots 
+Carrion Masquerade Mask 
+Simple Scribe's Tools 
+Carrion Tribal Trident of Rage 
+Assassin's Godskull Trihorn 
+Carrion Tribal Focus of Rage 
+Recipe: Svaard's Doublet 
+Recipe: Yassith's Shoulderguard 
+Shaman's Pearl Shell 
+Recipe: Svaard's Claymore 
+Berserker's Scallywag Helm of Divinity 
+Soldier's Exalted Boots 
+Fancy Truffle Burger 
+Soldier's Pearl Handcannon 
+Rampager's Iron Dagger of Ice 
+Shaman's Pearl Bludgeoner 
+Valkyrie Pearl Rod 
+Dire Orrian Dagger of Accuracy 
+Honed Masquerade Raiments 
+Carrion Tribal Warhorn of Vision 
+Knight's Noble Pants 
+Steel Rifle Barrel 
+Knight's Krait Machete 
+Rampager's Soft Wood Torch of the Hydromancer 
+Dire Pearl Shell 
+Cleric's Adventurer's Spectacles 
+Berserker's Iron Sword of Earth 
+Carrion Legionnaire Virge of Vision 
+Apothecary's Noble Pants 
+Valkyrie Embroidered Silk Insignia 
+Ravaging Dredge Lamp 
+Assassin's Pearl Conch 
+Apothecary's Gladiator Boots 
+Valkyrie Exalted Pants 
+Dire Orrian Staff of Rage 
+Recipe: Svaard's Leggings 
+Soldier's Pearl Trident 
+Rugged Longcoat Panel 
+Shaman's Pearl Siren 
+Berserker's Black Earth Trident of Ice 
+Dire Orrian Dagger of Rage 
+Rampager's Iron Spear of Perception 
+Strong Noble Pants 
+Hardened Helmet Strap 
+Tray of Omnomberry Bars 
+Dire Sneakthief Coat of Balthazar 
+Recipe: Commander's Draconic Boots 
+Settler's Pearl Impaler 
+Carrion Legionnaire Maul of Vision 
+Dire Orrian Axe of Vision 
+Assassin's Godskull Effigy 
+Recipe: Maklain's Breeches 
+Hearty Chef's Tools 
+Recipe: Svaard's Breeches 
+Hearty Noble Coat 
+Carrion Pearl Trident 
+Giver's Noble Mask 
+Seasoned Staff Shaft 
+Odurra's Magnificence 
+Dire Aureate Highlander Greatsword of Water 
+Peridot Silver Ring 
+Soldier's Exalted Gloves 
+Magi's Pearl Quarterstaff 
+Berserker's Scallywag Gauntlets of the Citadel 
+Cleric's Adventurer's Spectacles 
+Malign Glyphic Pistol of Force 
+Dire Orrian Staff of Accuracy 
+Carrion Emblazoned Helm 
+Night Air Dye 
+Shaman's Pearl Reaver 
+Major Sigil of Renewal 
+Magi's Exalted Mantle 
+Cleric's Draconic Pauldrons 
+Berserker's Soft Wood Focus of Hobbling 
+Lamp Finial 
+Shaman's Pearl Trident 
+Salomon's Riding Boots of the Rebirth 
+Recipe: Harrier's Warbeast Gauntlets 
+Apothecary's Prowler Coat 
+Berserker's Iron Axe of Demon Summoning 
+Honed Scale Legs 
+Valkyrie Pearl Handcannon 
+Mini Risen Drake Broodmother 
+Dire Ceremonial Rifle of Rage 
+Knight's Exalted Mantle 
+Dire Pearl Rod 
+Berserker's Krait Shooter 
+Ravaging Steam Dagger of Grawl Slaying 
+Soldier's Pearl Siren 
+Apothecary's Elder Wood Torch 
+Writ of Learned Accuracy 
+Recipe: Yassith's Doublet 
+Thesis on Learned Malice 
+Rampager's Draconic Gauntlets 
+Rampager's Pearl Handcannon 
+Cavalier's Draconic Coat 
+Rabid Pearl Impaler 
+Rabid Pearl Reaver 
+Mending Norn Axe of Battle 
+Major Sigil of Malice 
+Valkyrie Noble Shoulders 
+Resilient Krytan Greatsword of Force 
+Recipe: Verata's Warfists 
+Rampager's Iron Rifle of Chilling 
+Glyphic Pistol 
+Berserker's Scallywag Chest of Balthazar 
+Iron Scale Chest Panel 
+Valkyrie Mithril Imbued Inscription 
+Berserker's Soft Wood Focus of Perception 
+Shaman's Pearl Brazier 
+Pact Battleaxe 
+Settler's Pearl Trident 
+Malign Glyphic Longblade of Force 
+Rampager's Iron Sword of Demon Summoning 
+Cavalier's Pearl Trident 
+Gossamer Gloves Panel 
+Valkyrie Exalted Masque 
+Mini Lynx 
+Brutus' Chestguard 
+Cleric's Darksteel Plated Inscription 
+Ravaging Steam Pistol of Grawl Slaying 
+Cleric's Iron Pistol of Chilling 
+Apothecary's Elder Wood Staff 
+Rabid Pearl Handcannon 
+Rampager's Steam Speargun of the Hydromancer 
+Rejuvenating Scale Coat 
+Honed Iron Axe of Serpent Slaying 
+Knight's Pearl Carver 
+Elder Focus Casing 
+Rabid Pearl Stinger 
+Berserker's Soft Wood Longbow of Purity 
+Rabid Pearl Speargun 
+Strong Masquerade Mask 
+Stonespite Cleaver of Severance 
+Valkyrie Krait Star 
+Recipe: Yassith's Greaves 
+Vigorous Steel Plated Inscription 
+Recipe: Harrier's Warbeast Pants 
+Recipe: Yassith's Tassets 
+Infinite Molten Berserker Tonic 
+Shaman's Pearl Sabre 
+Honed Intricate Cotton Insignia 
+Recipe: Yassith's Visor 
+Cleric's Draconic Coat 
+Carrion Pearl Sabre 
+Assassin's Godskull Crosier 
+Berserker's Marauder Helm of the Grove 
+Steel Sword Blade 
+Assassin's Noble Mask 
+Vigorous Iron Imbued Inscription 
+Steam Staff 
+Knight's Draconic Helm 
+Magi's Draconic Coat 
+Shaman's Draconic Coat 
+Magi's Exalted Coat 
+Rampager's Pearl Trident 
+Dire Exalted Gloves 
+Hearty Steel Plated Inscription 
+Ogre Blaze 
+Rampager's Pearl Speargun 
+Sheena's Gauntlets 
+Recipe: Svaard's Pauldrons 
+Cleric's Pearl Quarterstaff 
+Soldier's Exalted Coat 
+Berserker's Soft Wood Scepter of Rage 
+The Hunt 
+Giver's Exalted Mantle 
+Cavalier's Spineguard 
+Berserker's Iron Dagger of Hobbling 
+Cleric's Steam Speargun of Earth 
+Dire Draconic Legs 
+Sheena's Legplates 
+Assassin's Gladiator Helm 
+Rabid Beaded Firearm 
+Dire Ceremonial Warhorn of Rage 
+Rampager's Embroidered Silk Insignia 
+Shaman's Pearl Conch 
+Knight's Pearl Reaver 
+Knight's Pearl Needler 
+Berserker's Iron Greatsword of Restoration 
+Bringer's Ogre Flintlock 
+Recipe: Yassith's Leather Breather 
+Recipe: Svaard's Guise 
+Recipe: Yassith's Leggings 
+Dire Draconic Boots 
+Recipe: Toxic Focusing Crystal 
+Dire Orrian Pistol of Rage 
+Dire Exalted Coat 
+Shaman's Pearl Rod 
+Berserker's Scallywag Pauldrons of the Flock 
+Rampager's Iron Spear of the Geomancer 
+Cavalier's Pearl Handcannon 
+Assassin's Godskull Crusher 
+Recipe: Yassith's Wristguards 
+Cleric's Iron Axe of Vision 
+Magi's Exalted Gloves 
+Assassin's Pearl Speargun 
+Rampager's Iron Axe of Ice 
+Mini Polar Bear 
+Ravaging Dredge Bonehewer 
+Dire Orrian Dagger of Vision 
+Berserker's Iron Axe of Force 
+Rampager's Black Earth Trident of Vision 
+Mini Seraph Recruit 
+Dire Pearl Brazier 
+Sagal's Raptor-Handling Gloves of the Rebirth 
+Valkyrie Exalted Gloves 
+Carrion Tribal Trident of Accuracy 
+Rampager's Pearl Quarterstaff 
+Cavalier's Aureate Axe 
+Horn of the Rogue Bull 
+Revolutionary Flyers 
+Shaman's Pearl Speargun 
+Dire Sneakthief Sandals of Infiltration 
+Carrion Legionnaire Symbol of Vision 
+Carrion Emblazoned Gloves 
+Berserker's Iron Axe of Peril 
+Sincerity Dye 
+Soldier's Pearl Quarterstaff 
+Recipe: Potent Master Tuning Crystals 
+Rampager's Pearl Conch 
+Honed Iron Dagger of Bloodlust 
+Dire Draconic Pauldrons 
+Honed Iron Sword of Chilling 
+Rampager's Draconic Boots 
+Cleric's Emblazoned Shoulders 
+Rampager's Pearl Brazier 
+Magi's Exalted Pants 
+Dire Ceremonial Dagger of Rage 
+Valkyrie Pearl Impaler 
+Valkyrie Ogre Bludgeoner 
+Carrion Legionnaire Sword of Accuracy 
+Dire Draconic Coat 
+Berserker's Seer Coat of Rata Sum 
+Berserker's Sneakthief Mask of Strength 
+Cleric's Soft Wood Staff of Purity 
+Valkyrie Pearl Needler 
+Pastel Lime Dye 
+Mhenlo's Boots 
+Dire Ceremonial Trident of Rage 
+Icing Dye 
+Dire Orrian Focus of Rage 
+Mast Pole 
+Gossamer Helm Strap 
+Lemon Tint Dye 
+Dire Ceremonial Speargun of Rage 
+Recipe: Harrier's Warbeast Gloves 
+Assassin's Pearl Stinger 
+Carrion Tribal Axe of Vision 
+Assassin's Pearl Impaler 
+Carrion Pearl Crusher 
+Bringer's Pearl Handcannon 
+Superior Sigil of Paralyzation 
+Bandit Sunderer 
+Carrion Tribal Sword of Vision 
+Recipe: Zojja's Metal Breather 
+Shaman's Draconic Legs 
+Magi's Pearl Rod 
+Carrion Tribal Focus of Vision 
+Soldier's Draconic Helm 
+Valkyrie Pearl Crusher 
+Rabid Exalted Gloves 
+Berserker's Masquerade Raiments 
+Feast of Fire Flank Steak 
+Knight's Krait Slayer 
+Dire Ceremonial Torch of Rage 
+Valkyrie Pearl Quarterstaff 
+Recipe: Yassith's Breeches 
+Shaman's Pearl Crusher 
+Cavalier's Pearl Siren 
+Rejuvenating Scale Coat 
+Rabid Pearl Crusher 
+Cleric's Emblazoned Gloves 
+Traveler's Ring 
+Shaman's Etched Cudgel of Accuracy 
+Soldier's Draconic Coat 
+Vigorous Dredge Sunderer 
+Gungnir 
+Magi's Exalted Masque 
+Cavalier's Exalted Masque 
+Carrion Legionnaire Sword of Rage 
+Carrion Ring 
+Rampager's Pearl Reaver 
+Cleric's Soft Wood Scepter of Stamina 
+Giver's Gladiator Helm 
+Rampager's Krait Slayer 
+Ancient Short-Bow Stave 
+Cleric's Noble Coat 
+Knight's Mithril Imbued Inscription 
+Assassin's Godskull Edge 
+Coarse Longcoat Panel 
+Ogre Breaker 
+Midnight Blue Dye 
+Dire Pearl Impaler 
+Malign Glyphic Scepter of Force 
+Cleric's Pearl Siren 
+Dire Orrian Torch of Vision 
+Carrion Pearl Needler 
+Cleric's Exalted Masque 
+Recipe: Yassith's Masque 
+Rampager's Darksteel Plated Inscription 
+Berserker's Ring 
+Norgu's Leggings 
+Superior Rune of the Cavalier 
+Cleric's Draconic Helm 
